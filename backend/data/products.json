@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "MacBook Pro", "price": 125000, "category": "Laptop" },
+  { "id": 2, "name": "iPhone 14", "price": 70000, "category": "Mobile" },
+  { "id": 3, "name": "Wireless Headphones", "price": 3500, "category": "Accessories" },
+  { "id": 4, "name": "Gaming Mouse", "price": 1800, "category": "Accessories" },
+  { "id": 5, "name": "Dell Laptop", "price": 65000, "category": "Laptop" }
+]
